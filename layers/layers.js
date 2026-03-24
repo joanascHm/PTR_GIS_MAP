@@ -1199,14 +1199,6 @@ var group_CellExports = new ol.layer.Group({
                                 layers: [lyr_hf_cellexport_1,lyr_sky_cellexport_2,lyr_hr_cellexport_3,lyr_tr_cellexport_4,lyr_pc_cellexport_5,],
                                 fold: 'close',
                                 title: 'CellExports'});
-var group_NOTAPLICABLE = new ol.layer.Group({
-                                layers: [],
-                                fold: 'open',
-                                title: 'NOT APLICABLE'});
-var group_LandmassLayers = new ol.layer.Group({
-                                layers: [],
-                                fold: 'open',
-                                title: 'Landmass Layers'});
 
 lyr_Landmass_0.setVisible(true);lyr_hf_cellexport_1.setVisible(false);lyr_sky_cellexport_2.setVisible(false);lyr_hr_cellexport_3.setVisible(false);lyr_tr_cellexport_4.setVisible(false);lyr_pc_cellexport_5.setVisible(false);lyr_Claims_6.setVisible(false);lyr_Roadmaps_7.setVisible(false);lyr_ProjectMaps_8.setVisible(false);lyr_Regions_9.setVisible(false);lyr_Polities_10.setVisible(false);lyr_Roads_11.setVisible(true);lyr_Dungeons_12.setVisible(true);lyr_Cyr_Delodiil_13.setVisible(true);lyr_Cyr_Skingrad_14.setVisible(true);lyr_Cyr_Artemon_15.setVisible(true);lyr_Cyr_Chorrol_16.setVisible(true);lyr_Cyr_Sutch_17.setVisible(true);lyr_Cyr_Kvatch_18.setVisible(true);lyr_Cyr_Sarchal_19.setVisible(true);lyr_Cyr_Empire_of_Tamriel_20.setVisible(true);lyr_Cyr_Anvil_21.setVisible(true);lyr_HF_Rihad_22.setVisible(true);lyr_HF_WasteDwellers_23.setVisible(true);lyr_HF_Elinhir_24.setVisible(true);lyr_HF_RaHabi_Company_25.setVisible(true);lyr_HF_ToaKorom_Host_26.setVisible(true);lyr_hf_Dragonstar_27.setVisible(true);lyr_HF_DragontailOrcs_28.setVisible(true);lyr_HF_Skaven_29.setVisible(true);lyr_HF_Verkath_30.setVisible(true);lyr_HF_Totambu_31.setVisible(true);lyr_HF_Sentinel_32.setVisible(true);lyr_HF_DuneDwellers_33.setVisible(true);lyr_HF_SwampDwellers_34.setVisible(true);lyr_HF_DustDwellers_35.setVisible(true);lyr_HF_Taneth_36.setVisible(true);lyr_HF_VolenIjHost_37.setVisible(true);lyr_HF_Crownlands_38.setVisible(true);
 var layersList = [lyr_Landmass_0,group_CellExports,group_DevLayers,group_Regions,group_Polities,group_Roads,group_Dungeons,group_Settlements];

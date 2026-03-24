@@ -245,8 +245,8 @@ var style_Cyr_Empire_of_Tamriel_20 = function(feature, resolution){
     var offsetX = 0;
     var offsetY = 0;
     var placement = 'point';
-    if ("" !== null) {
-        labelText = String("");
+    if (feature.get("Name") !== null) {
+        labelText = String(feature.get("Name"));
     }
     
     var style = categories_Cyr_Empire_of_Tamriel_20(feature, value, size, resolution, labelText,
