@@ -1,0 +1,1 @@
+var json_HF_RaHabi_Company_25 = {"type":"FeatureCollection","name":"HF_RaHabi_Company_25","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Name":"Heldorn","Tier (Capital)":"3 (Capital)"},"geometry":{"type":"MultiPoint","coordinates":[[22.832691065774686,-11.118970727439663]]}}]}
